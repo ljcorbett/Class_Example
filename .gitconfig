@@ -1,0 +1,21 @@
+[user]
+	name = ljcorbett
+	email = lj[merge]
+    tool = kdiff3
+[mergetool "kdiff3"]
+    path = c:/Program Files/KDiff3/kdiff3.exe
+[diff]
+    tool = kdiff3
+    guitool = kdiff3
+[difftool "kdiff3"]
+    path = c:/Program Files/KDiff3/kdiff3.execorbet@ncsu.edu
+[merge]
+    tool = kdiff3
+[mergetool "kdiff3"]
+    path = c:/Program Files/KDiff3/kdiff3.exe
+[diff]
+    tool = kdiff3
+    guitool = kdiff3
+[difftool "kdiff3"]
+    path = c:/Program Files/KDiff3/kdiff3.exe
+    
